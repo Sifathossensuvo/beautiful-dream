@@ -4,7 +4,7 @@ import { GiFlowerEmblem, GiSparkles } from 'react-icons/gi';
 import { FaHeart, FaCode, FaCrown, FaStar, FaFreeCodeCamp } from 'react-icons/fa';
 
 // Assets import (তোমার assets ফোল্ডারের নাম অনুযায়ী পাথ ঠিক করে নিও)
-import eraImg from '../assets/era.png';
+import eraImg from '../assets/instagram_1795020631312.jpg';
 import myImg from '../assets/shuvo.png';
 
 const Wishes = () => {
